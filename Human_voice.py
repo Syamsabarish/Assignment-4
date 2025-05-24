@@ -74,7 +74,7 @@ elif page == "🧠 Develop Info":
         <ul>
             <li><b>Training Information()</b> – Split: 80% training / 20% testing</li>
             <li><b>StandardScaler()</b> – Normalize features before training</li>
-            <li><b>SMOTE()</b> – Synthetic Minority Over-sampling to balance class distribution</li>
+            <li><b>SMOTE()-</b> – Synthetic Minority Over-sampling to balance class distribution</li>
             <li><b>KNN()</b> – Predicts based on the majority of closest neighbors</li>
             <li>KNeighborsClassifier - <b> Accuracy_score : 0.998</li>
                     
